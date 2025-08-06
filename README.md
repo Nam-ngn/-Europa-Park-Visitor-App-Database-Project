@@ -86,7 +86,9 @@ tappez python dans le terminal ou https://www.python.org/downloads/
 
 
 
-5. Ensuite, ouvrez les fichiers Attractions.py et tous les fichiers py présents dans le dossier pages et remplacez y la fonction connexion_db par les informations relatives a votre base de donnée 
+5. Ensuite, ouvrez les fichiers Attractions.py et tous les fichiers py présents dans le dossier pages et remplacez y la fonction connexion_db par les informations relatives a votre base de donnée. Vous trouverez ces informations dans l'option "éditer connexion" de DBEAVER. Vous pouvez utiliser une autre interface graphique (GUI) permettant de gérer visuellement une base de données (PHP MyAdmin, MySQL Workbench, etc.)
+
+ ```bash
 
 	def connexion_db():
     connection = mysql.connector.connect(
@@ -99,11 +101,7 @@ tappez python dans le terminal ou https://www.python.org/downloads/
     )
     return connection
 
-
-
-Vous trouverez ces informations dans l'option "éditer connexion" de DBEAVER. Vous pouvez utiliser une autre interface graphique (GUI) permettant de gérer visuellement une base de données (PHP MyAdmin, MySQL Workbench, etc.)
-
-
+ ```
 
 
 6. La base de données étant alimentée et l'environement virtuel configuré, retounez sur le terminal powershell en vérifiant bien être toujours dans l'environement virtuel alloué a ce projet et lancez la commande : streamlit run Attractions.py
