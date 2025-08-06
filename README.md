@@ -34,7 +34,7 @@ Réalisé dans le cadre du cours *"Bases de Données"* à l’**Université de G
 
 ---
 
-## 🏗️ Modèle de Base de Données
+## Modèle de Base de Données
 
 La base de données gère :
 - La billetterie
