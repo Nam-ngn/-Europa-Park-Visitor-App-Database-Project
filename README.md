@@ -53,6 +53,11 @@ La base de données gère :
 
 Voici quelques captures de l’application Streamlit une fois déployée localement ou en ligne.
 
+<p align="left">
+  <img src="pong.png" alt="Pong Game" width="400"/>
+  <img src="endgame.png" alt="End Game" width="400"/>
+</p>
+
 ---
 
 ## Lancer l'application (Marche à suivre installation streamlit et sgbd :)
