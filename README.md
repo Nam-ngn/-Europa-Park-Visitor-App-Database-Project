@@ -54,8 +54,11 @@ La base de données gère :
 Voici quelques captures de l’application Streamlit une fois déployée localement ou en ligne.
 
 <p align="left">
-  <img src="pong.png" alt="Pong Game" width="400"/>
-  <img src="endgame.png" alt="End Game" width="400"/>
+	<img src="selectionAttraction.png" alt="selectionAttraction" width="400"/>
+	<img src="attractions.png" alt="attractions" width="400"/>
+  	<img src="plan.png" alt="plan" width="400"/>
+	<img src="requetes.png" alt="requetes" width="400"/>
+	<img src="statistiques.png" alt="statistiques" width="400"/>
 </p>
 
 ---
