@@ -1,6 +1,6 @@
 # 🎢 Europa Park – Application Visiteur & Projet Base de Données
 
-Ce dépôt contient une **application web développée avec Streamlit** ainsi qu’une **base de données relationnelle MySQL** permettant de gérer l’accès des visiteurs aux attractions d’Europa Park.
+Ce dépôt contient une **application web développée avec la librairie Streamlit** de Python ainsi qu’une **base de données relationnelle MySQL** permettant de gérer l’accès des visiteurs aux attractions d’Europa Park.
 
 Réalisé dans le cadre du cours *"Bases de Données"* à l’**Université de Genève (Printemps 2024)** par le **Groupe 12**.
 
