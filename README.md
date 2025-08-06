@@ -27,7 +27,9 @@ Réalisé dans le cadre du cours *"Bases de Données"* à l’**Université de G
   - Dates d’ouverture et fermeture de l’attraction
   - Restrictions liées à la grossesse
 
-### Technologies utilisées :
+---
+
+## Technologies utilisées :
 - `streamlit`
 - `mysql-connector-python`
 - `datetime`
