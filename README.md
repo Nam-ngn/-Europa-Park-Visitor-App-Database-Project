@@ -53,7 +53,7 @@ La base de données gère :
 
 Voici quelques captures de l’application Streamlit une fois déployée localement ou en ligne.
 
-<p align="left">
+<p align="center">
 	<img src="selectionAttraction.png" alt="selectionAttraction" width="600"/>
 	<img src="attractions.png" alt="attractions" width="600"/>
   	<img src="plan.png" alt="plan" width="600"/>
