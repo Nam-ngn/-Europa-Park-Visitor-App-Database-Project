@@ -27,7 +27,7 @@ Réalisé dans le cadre du cours *"Bases de Données"* à l’**Université de G
   - Dates d’ouverture et fermeture de l’attraction
   - Restrictions liées à la grossesse
 
-**Technologies utilisées** :
+### Technologies utilisées :
 - `streamlit`
 - `mysql-connector-python`
 - `datetime`
@@ -44,7 +44,6 @@ La base de données gère :
 - La localisation des éléments par pays
 
 **Schéma relationnel** : normalisé en **3ème forme normale (3FN)**  
-📄 Voir `Rapport_groupe12.pdf` pour les diagrammes et explications détaillées.
 
 ---
 
